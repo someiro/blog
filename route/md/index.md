@@ -1,0 +1,2 @@
+- [Twitterを辞めた話 - 2026 · 11 · 15](articles/Twitterを辞めた話.html)
+- [今更すぎるCEATEC-2026レポ - 2026 · 11 · 16](articles/今更すぎるCEATEC-2026レポ.html)
